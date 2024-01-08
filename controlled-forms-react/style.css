@@ -5,6 +5,10 @@
 body {
     margin: 0;
     padding: 20px;
+    background-color: #639;
+    height: 100vh;
+    font-family: 'Inter', sans-serif;
+    color: ivory;
 }
 
 input[type="text"], input[type="email"] {
